@@ -1,0 +1,14 @@
+.env
+
+output_log.txt
+
+venv/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
