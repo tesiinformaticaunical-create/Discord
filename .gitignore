@@ -1,6 +1,7 @@
 .env
 
 output_log.txt
+mio.txt
 
 venv/
 .venv/
